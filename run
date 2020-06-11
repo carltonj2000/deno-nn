@@ -1,0 +1,3 @@
+#deno run --allow-net --allow-read --allow-write ./index.ts
+#deno run --allow-net --allow-read --allow-write ./ftch.ts
+deno run --allow-net --allow-read --allow-write --unstable ./stdlibsrvr1.ts
